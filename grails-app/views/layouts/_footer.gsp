@@ -1,0 +1,1 @@
+<p style="border-bottom:solid 1px; text-align:right;">copyright libro 2013.</p>
